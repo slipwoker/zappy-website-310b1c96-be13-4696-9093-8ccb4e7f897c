@@ -1,51 +1,61 @@
-# Business — Generative Engine Optimization Map
+# עיר החול — Generative Engine Optimization Map
+
+> A ספרות והוצאה לאור business.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://ir-hachol.zappy5.app
 עיר החול - ספר דרמטי חדש של יצחק בן עוז. סיפור מרתק על אהבה, רומנטיקה ומתח שיקסים כל חובב ספרות צעיר.
 
 ### אודות הספר
-https://example.com/about
+https://ir-hachol.zappy5.app/about
 גלו את הסיפור מאחורי ספר עיר החול - ספר דרמטי מרתק של יצחק בן עוז. למדו על הנושאים, הדמויות והמסר העמוק של הספר.
 
 ### אודות הסופר
-https://example.com/author
+https://ir-hachol.zappy5.app/author
 הכירו את יצחק בן עוז, הסופר מאחורי ספר עיר החול. גלו את המסע שלו בעולם הספרות ואת החזון שלו ליצירת ספר דרמטי מרגש.
 
 ### ביקורות
-https://example.com/reviews
+https://ir-hachol.zappy5.app/reviews
 קראו ביקורות מרגשות על ספר עיר החול מקוראים אמיתיים. גלו למה הספר הדרמטי הזה זכה להצלחה כה גדולה בקרב חובבי ספרות צעירים.
 
 ### צור קשר
-https://example.com/contact
+https://ir-hachol.zappy5.app/contact
 יש לכם שאלות על ספר עיר החול? רוצים להזמין את הספר הדרמטי? צרו קשר עם יצחק בן עוז ונשמח לעזור לכם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://ir-hachol.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://ir-hachol.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://ir-hachol.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About עיר החול
+עיר החול is a business in the ספרות והוצאה לאור industry.
+
+## Target Audience
+- חובבי ספרות צעירים
+
+## Industry
+ספרות והוצאה לאור
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://ir-hachol.zappy5.app/sitemap.xml
+- **Robots.txt**: https://ir-hachol.zappy5.app/robots.txt
